@@ -49,3 +49,15 @@ a:hover {
     letter-spacing: 3px;
 
 }
+
+
+
+.kader {
+    background-color: blue;
+    width: 20px;
+    height: 30px;
+}
+
+.een>ul {
+    color: pink;
+}
